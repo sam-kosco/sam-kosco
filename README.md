@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sam-kosco
+- 👀 I’m interested in math animation, data science, and app development
+- 🌱 I’m currently learning React Native and how to work within large code bases
+- 💞️ I’m looking to collaborate on Manim projects
+- 📫 you can reach me at samuel.kosco@foxtrotaviation.com
+- 😄 Pronouns: he/him
